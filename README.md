@@ -1,4 +1,4 @@
-# SaliencyMapInPython
+# Saliency Map In Python
 
 This code is a Python adaptation of the saliency map calculation from
 
@@ -26,7 +26,7 @@ Example files can be found at the URL given above.
 
 Example usage:
 ```
-$ $ python saliency.py -v input.png output.png
+$ python saliency.py -v input.png output.png
 ```
 
 ## Usage Notes
