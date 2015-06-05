@@ -55,3 +55,8 @@ docs/_build/
 
 # PyBuilder
 target/
+
+# Specific exclusions for SaliencyMapInPython
+test/
+output.png
+.DS_STORE

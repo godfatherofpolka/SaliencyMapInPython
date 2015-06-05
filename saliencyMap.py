@@ -25,7 +25,7 @@ from scipy import ndimage
 #---------------------------------------------------------
 # Original implementation from
 # @incollection{Achanta,
-#  author={Achanta, Radhakrishna and Estrada, Francisco and Wils, Patricia and Süsstrunk, Sabine},
+#  author={Achanta, Radhakrishna and Estrada, Francisco and Wils, Patricia and S\"usstrunk, Sabine},
 #  editor={Gasteratos, Antonios and Vincze, Markus and Tsotsos, John K.},
 #  booktitle={Computer Vision Systems},
 #  title={Salient Region Detection and Segmentation},
